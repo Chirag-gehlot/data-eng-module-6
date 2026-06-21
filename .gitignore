@@ -10,3 +10,6 @@ wheels/
 .venv
 
 /data
+
+code/fhvhv_tripdata_2021-01.csv
+*.csv
