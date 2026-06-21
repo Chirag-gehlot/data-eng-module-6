@@ -12,4 +12,5 @@ wheels/
 /data
 
 code/fhvhv_tripdata_2021-01.csv
-*.csv
+*.csvgit add .gitignore
+code/data
